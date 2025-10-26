@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Francois le Roux
 
-<!--
-**231256leRouxFNF/231256leRouxFNF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **UI/UX Developer & Student**  
+🎓 Currently studying at [Your Institution Name]  
+🌱 Learning: React.js, Node.js, and UX design principles  
+🚀 Passionate about creating intuitive and visually appealing web experiences
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** MySQL, MongoDB
+- **Tools:** Figma, Git, VS Code
+
+---
+
+### 🌟 Featured Projects
+- [AutoHub](https://github.com/231256leRouxFNF/AutoHub) — A car management platform built with React & Node.js  
+- [Portfolio Website](https://github.com/231256leRouxFNF/portfolio) — My personal web portfolio and design showcase  
+- [UI Design Project](https://github.com/231256leRouxFNF/UIDesignProject) — Figma prototypes and user interface experiments
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: [Your LinkedIn link here]
+- Email: [your.email@example.com]
+- Portfolio: [your portfolio link]
+
+---
+
+> “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
