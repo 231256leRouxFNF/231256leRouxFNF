@@ -68,7 +68,6 @@ SOFT_SKILLS = ["User-Empathy", "Agile Collaboration", "Detail-Oriented Design"]
 
 print(f"\nQuote: \"Design is how it works.\" - Steve Jobs")
 
-
 📈 GitHub Stats
 
 <p align="center">
