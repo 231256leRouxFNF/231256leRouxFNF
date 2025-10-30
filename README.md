@@ -2,10 +2,6 @@
 
 ---
 
-# Francois-le-Roux / README.md
-
----
-
 <p align="center">
     <!-- Combined all skills into one clean URL: -->
     <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark)" alt="Skill Badges" />
