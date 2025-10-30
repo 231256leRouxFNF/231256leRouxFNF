@@ -58,3 +58,41 @@ AUTHOR = "Steve Jobs"
 
 print(f"\nQuote of the Day: \"{QUOTE}\" - {AUTHOR}")
 
+
+---
+---
+
+```csharp
+/* * Life Outside the Code Editor
+*/
+
+public class MyProfile : Person
+{
+    // My interests and pastimes when I'm not coding.
+    public string[] Hobbies = 
+    {
+        "Playing [Your Favorite Sport/Game]",
+        "Reading [Your Favorite Genre] Books",
+        "Exploring new design trends on [e.g., Dribbble/Behance]",
+        "Learning [A non-tech skill]"
+    };
+
+    public list FavoriteContent = new list
+    {
+        "Movie: [Tomany to choice from]",
+        "Game: [Forza, ]",
+        "Show: [Your Favorite Series]"
+    };
+    
+    // A fun or quirky self-description!
+    public enum SoftSkills
+    {
+        EffectiveCommunication,
+        CuriosityDriven,
+        StrongLeadership,
+        PersistentProblemSolver
+    }
+}
+
+
+
