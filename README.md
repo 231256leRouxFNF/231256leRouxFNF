@@ -3,9 +3,11 @@
 ---
 
 <p align="center">
-    <!-- Combined all skills into one clean URL: -->
-    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark)" alt="Skill Badges" />
+    <!-- This line now correctly pulls and displays all your icons in one row -->
+    <img src="https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark" alt="Skill Badges" />
 </p>
+
+---
 
 ```javascript
 // bio-and-current-status.js
@@ -33,9 +35,10 @@ public class DeveloperSkills
 
     public Project[] FeaturedProjects = new Project[]
     {
-        new Project("AutoHub", "A car management platform built with React & Node.js", "https://github.com/231256leRouxFNF/AutoHub"),
-        new Project("Portfolio Website", "My personal web portfolio and design showcase", "https://github.com/231256leRouxFNF/portfolio"),
-        new Project("UI Design Project", "Figma prototypes and user interface experiments", "https://github.com/231256leRouxFNF/UIDesignProject")
+        // Replace links and titles with your actual project data:
+        new Project("AutoHub", "A car management platform built with React & Node.js", "[https://github.com/231256leRouxFNF/AutoHub](https://github.com/231256leRouxFNF/AutoHub)"),
+        new Project("Portfolio Website", "My personal web portfolio and design showcase", "[https://github.com/231256leRouxFNF/portfolio](https://github.com/231256leRouxFNF/portfolio)"),
+        new Project("UI Design Project", "Figma prototypes and user interface experiments", "[https://github.com/231256leRouxFNF/UIDesignProject](https://github.com/231256leRouxFNF/UIDesignProject)")
     };
 }
 
@@ -54,3 +57,4 @@ QUOTE = "Design is not just what it looks like and feels like. Design is how it 
 AUTHOR = "Steve Jobs"
 
 print(f"\nQuote of the Day: \"{QUOTE}\" - {AUTHOR}")
+
