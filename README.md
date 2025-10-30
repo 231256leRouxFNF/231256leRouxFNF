@@ -19,6 +19,8 @@ const developer = {
 
 console.log(`Hello World! My name is ${developer.name}. 👋`);
 
+---
+
 /* * Tech Stack & Projects
 */
 
@@ -37,6 +39,8 @@ public class DeveloperSkills
         new Project("UI Design Project", "Figma prototypes and user interface experiments", "https://github.com/231256leRouxFNF/UIDesignProject")
     };
 }
+
+---
 
 # connect_with_me.py
 
