@@ -56,23 +56,75 @@ console.log(`🎯 Current focus: ${developer.learning[0]}.`);
 ---
 
 ```
+// 🎮 Character Profile: Francois le Roux — The Creative Debugger
+
 public class MyProfile : Developer
 {
-    public string[] Hobbies = 
+    // 🧙 Character Stats
+    public string Name = "Francois le Roux";
+    public string Class = "UI/UX Developer";
+    public string Alignment = "Chaotic Good (Fueled by Coffee ☕)";
+    public string CurrentQuest = "Designing seamless user experiences that feel as good as they look.";
+    public int Level = 21; // approximate years + XP points in creativity
+
+    // 🧰 Skill Tree
+    public string[] CoreSkills = 
     {
-        "Exploring new hiking trails and historical sites ⛰️",
-        "Mastering the art of [insert cool non-tech skill here 🍞]",
-        "Listening to design podcasts and chill playlists 🎧"
+        "React Mastery 🌐",
+        "Node.js Alchemy 🔥",
+        "UI/UX Spellcasting ✨",
+        "Pixel Perfection ⚡",
+        "Design Thinking 🧩"
     };
 
+    // 🎬 Favorite Worlds & Inspirations
+    public string[] FavoriteGames = 
+    {
+        "The Witcher 3: Wild Hunt",
+        "God of War (2018)",
+        "Red Dead Redemption 2",
+        "Cyberpunk 2077"
+    };
+
+    public string[] FavoriteMovies =
+    {
+        "Interstellar 🌌",
+        "Inception 🌀",
+        "Blade Runner 2049 💡",
+        "Spider-Man: Across the Spider-Verse 🕸️"
+    };
+
+    public string[] FavoriteGenres =
+    {
+        "Sci-Fi & Futuristic Worlds 🪐",
+        "Fantasy Adventures ⚔️",
+        "Lo-Fi & Synthwave Vibes 🎵"
+    };
+
+    // 💬 Soft Skills (Passive Abilities)
     public enum SoftSkills
     {
         EmpathyDrivenDesign,
-        DetailOrientedCraftsmanship,
+        CreativeProblemSolving,
         TeamCollaboration,
-        CreativeProblemSolving
+        Adaptability,
+        Curiosity
     }
+
+    // 🌿 Side Quests
+    public string[] Hobbies =
+    {
+        "Exploring hidden hiking trails ⛰️",
+        "Capturing moments through photography 📸",
+        "Sketching UI concepts on random napkins ✏️",
+        "Listening to chillwave playlists while coding 🎧",
+        "Trying (and failing) latte art ☕"
+    };
+
+    // 🕹️ Fun Fact
+    public string FunFact = "Believes every bug hides a lesson — and occasionally, a good laugh.";
 }
+
 ```
 
 ---
@@ -96,4 +148,4 @@ Here’s a small gallery of things I’ve built, designed, and debugged into lif
 <p align="center"> <a href="[Your LinkedIn link here]" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> <a href="mailto:[your.email@example.com]" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /> </a> <a href="[your portfolio link]" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio Badge" /> </a> </p>
 <p align="center"> 🧩 Work in Progress — Always learning, always building. 
   <br><br>
-<small>“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs</small> </p> ```
+<small>“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs</small> </p>
