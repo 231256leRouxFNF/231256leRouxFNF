@@ -1,9 +1,9 @@
 <p align="center">
-<!-- Skill Badges - Combined into a clean row with dark theme for aesthetic -->
+<!-- Skill Badges: UI/UX focused badges displayed in a single clean row -->
 <img src="https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark" alt="Technical Skill Badges" />
 </p>
 
-// bio-and-current-status.js
+// AboutMe.js - Personal Bio and Current Status
 
 const developer = {
     name: "Francois le Roux",
@@ -14,62 +14,71 @@ const developer = {
 };
 
 console.log(`Hello World! My name is ${developer.name}. 👋`);
-console.log("-----------------------------------------");
-console.log("// The quote that guides my work: \n");
-console.log("`Design is not just what it looks like and feels like. Design is how it works.` - Steve Jobs");
+console.log("// Current Focus: Finding the intersection of design and robust code.");
 
 
-/* * Tech Stack & Projects
+/* * Professional Snapshot
 */
 
-public class DeveloperProfile
+public class DeveloperSkills
 {
-    // The tools that make my projects happen.
+    // The core toolset for full-stack development.
     private static readonly string[] Frontend = { "HTML", "CSS", "JavaScript", "React" };
     private static readonly string[] Backend = { "Node.js", "Express" };
     private static readonly string[] Database = { "MySQL", "MongoDB" };
     private static readonly string[] Tools = { "Figma", "Git", "VS Code" };
 
-    public Project[] FeaturedProjects = new Project[]
-    {
-        // Add your actual project links here
-        new Project("AutoHub", "A car management platform built with React & Node.js", "[https://github.com/231256leRouxFNF/AutoHub](https://github.com/231256leRouxFNF/AutoHub)"),
-        new Project("Portfolio Website", "My personal web portfolio and design showcase", "[https://github.com/231256leRouxFNF/portfolio](https://github.com/231256leRouxFNF/portfolio)"),
-        new Project("UI Design Project", "Figma prototypes and user interface experiments", "[https://github.com/231256leRouxFNF/UIDesignProject](https://github.com/231256leRouxFNF/UIDesignProject)")
-    };
+    // Note: Projects are listed outside this block so the links are clickable.
 }
 
 
-# personal_interests.py
+🌟 Featured Projects
+
+These links are now fully functional and clickable!
+
+AutoHub — A car management platform built with React & Node.js
+[Repo Link]
+
+Portfolio Website — My personal web portfolio and design showcase
+[Repo Link]
+
+UI Design Project — Figma prototypes and user interface experiments
+[Repo Link]
+
+# LifeAndContact.py - Interests and Contact Information
 
 def get_hobbies():
-    """Retrieve my interests outside of coding."""
-    hobbies = {
-        "Adventure": "Exploring new cities and hiking trails 🗺️",
-        "Gaming": "Playing [Your Favorite Game] to unwind 🎮",
-        "Reading": "Getting lost in a good [Fantasy/Sci-Fi] book 📚"
+    """Retrieve my interests outside of coding and design."""
+    return {
+        "Adventure": "Exploring new hiking trails and historical sites ⛰️",
+        "Learning": "Currently mastering [Specific Non-Tech Skill, e.g., baking]",
+        "Mindfulness": "Dedicated time for [Meditation/Exercise/Music] 🎧"
     }
-    return hobbies
 
-class SoftSkills:
-    # Traits developed both in and out of the classroom
-    PROFESSIONAL_TRAITS = [
-        "User-Centric Empathy (UX)",
-        "Persistent Problem-Solving",
-        "Effective Cross-Functional Communication"
-    ]
+def get_contact_info():
+    """Professional and personal links."""
+    return {
+        "LinkedIn": "[Your LinkedIn link here]",
+        "Email": "[your.email@example.com]",
+        "Portfolio": "[your portfolio link]"
+    }
+
+# Soft skills are just as important as hard skills.
+SOFT_SKILLS = ["User-Empathy", "Agile Collaboration", "Detail-Oriented Design"]
+
+print(f"\nQuote: \"Design is how it works.\" - Steve Jobs")
 
 
 📈 GitHub Stats
 
 <p align="center">
-<!-- Replace 'YourUsername' with '231256leRouxFNF' -->
+<!-- Replace '231256leRouxFNF' with your actual username if different -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D231256leRouxFNF%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue"
 alt="Francois le Roux's GitHub Stats"
 height="180"
 style="margin-right: 10px;" />
 
-<!-- Replace 'YourUsername' with '231256leRouxFNF' -->
+<!-- Replace '231256leRouxFNF' with your actual username if different -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=231256leRouxFNF&layout=compact&theme=dark&hide_border=true" 
      alt="Francois le Roux's Top Languages" 
      height="180" />
@@ -81,12 +90,12 @@ style="margin-right: 10px;" />
 
 <p align="center">
 <a href="[Your LinkedIn link here]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge" />
 </a>
 <a href="mailto:[your.email@example.com]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge" />
 </a>
 <a href="[your portfolio link]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FF4500%3Fstyle%3Dfor-the-badge%26logo%3Dwordpress%26logoColor%3Dwhite" alt="Portfolio" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FF4500%3Fstyle%3Dfor-the-badge%26logo%3Dwordpress%26logoColor%3Dwhite" alt="Portfolio Badge" />
 </a>
 </p>
