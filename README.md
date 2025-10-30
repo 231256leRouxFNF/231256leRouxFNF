@@ -1,4 +1,4 @@
-# 👋 Hey There, I'm Francois le Roux
+# 👋 Hello There, I'm Francois le Roux
 
 <p align="center">
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🎨 About Me — The Creative Debugger
+## 🎨 About Me — 
 
 Hey there! I'm **Francois le Roux**, a curious mind who believes design and code are two halves of the same heartbeat 💡.  
 Currently on a mission to craft **beautiful, user-centered interfaces** that don’t just *work* — they *feel right*.
@@ -79,12 +79,15 @@ public class MyProfile : Developer
 
     public string[] FavoriteMovies =
     {
-        "To many to choose", 
+        "Transformers franchise",
+        "Fast & Furious franchise",
+        "Star Wars franchise", 
     };
 
     public string[] FavoriteSeries =
     {
-        "Dr Who", 
+        "Dr Who",
+        "Mr Robot",
     };
 
     public string[] FavoriteGenres =
@@ -97,10 +100,7 @@ public class MyProfile : Developer
     // 💬 Soft Skills (Passive Abilities)
     public enum SoftSkills
     {
-        EmpathyDrivenDesign,
-        CreativeProblemSolving,
         TeamCollaboration,
-        Adaptability,
         Curiosity
     }
 
