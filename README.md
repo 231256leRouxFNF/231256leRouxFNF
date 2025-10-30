@@ -2,14 +2,13 @@
 
 ---
 
+# Francois-le-Roux / README.md
+
+---
+
 <p align="center">
-    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=react&theme=dark)" alt="Skill Badges" />
-    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=nodejs&theme=dark)" alt="Skill Badges" />
-    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=figma&theme=dark)" alt="Skill Badges" />
-    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=html&theme=dark)" alt="Skill Badges" />
-    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=css&theme=dark)" alt="Skill Badges" />
-    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=js&theme=dark)" alt="Skill Badges" />
-    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=mysql&theme=dark)" alt="Skill Badges" />
+    <!-- Combined all skills into one clean URL: -->
+    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark)" alt="Skill Badges" />
 </p>
 
 ```javascript
