@@ -1,31 +1,55 @@
-# 👋 Hi, I'm Francois le Roux
-
-💻 **UI/UX Developer & Student**  
-🎓 Currently studying at [Your Institution Name]  
-🌱 Learning: React.js, Node.js, and UX design principles  
+# Francois-le-Roux / README.md
 
 ---
 
-### Passions
+<p align="center">
+    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark)" alt="Skill Badges" />
+</p>
 
-- I love working on coding projects and learning about the diffrent types of coding languages there are.
-- I like gaming, talking about cars and hanging out with my friends.
-- When I'm not out with my friends then I'm at home working on projects or learning something new.
+```javascript
+// bio-and-current-status.js
 
-### 🧰 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Database:** MySQL, MongoDB
-- **Tools:** Figma, Git, VS Code, Visily
+const developer = {
+    name: "Francois le Roux",
+    role: "UI/UX Developer & Student",
+    education: "Currently studying at [Your Institution Name]",
+    learning: ["React.js", "Node.js", "UX design principles"],
+    passion: "creating intuitive and visually appealing web experiences"
+};
 
----
+console.log(`Hello World! My name is ${developer.name}. 👋`);
 
-### 🌟 Featured Projects
-- [AutoHub](https://github.com/231256leRouxFNF/AutoHub) — A car management platform built with React & Node.js  
-- [Portfolio Website](https://github.com/231256leRouxFNF/###) — My personal web portfolio and design showcase  
-- [VOD group project](https://github.com/Kai-Barker/DV100_GroupProject_Term4) — VOD webiste made with HTML, CSS, JS and an API
+/* * Tech Stack & Projects
+*/
 
+public class DeveloperSkills
+{
+    // The tools that make my projects happen.
+    private static readonly string[] Frontend = { "HTML", "CSS", "JavaScript", "React" };
+    private static readonly string[] Backend = { "Node.js", "Express" };
+    private static readonly string[] Database = { "MySQL", "MongoDB" };
+    private static readonly string[] Tools = { "Figma", "Git", "VS Code" };
 
----
+    public Project[] FeaturedProjects = new Project[]
+    {
+        new Project("AutoHub", "A car management platform built with React & Node.js", "https://github.com/231256leRouxFNF/AutoHub"),
+        new Project("Portfolio Website", "My personal web portfolio and design showcase", "https://github.com/231256leRouxFNF/portfolio"),
+        new Project("UI Design Project", "Figma prototypes and user interface experiments", "https://github.com/231256leRouxFNF/UIDesignProject")
+    };
+}
 
-> “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
+# connect_with_me.py
+
+def get_contact_info():
+    """Retrieve all professional links."""
+    return {
+        "LinkedIn": "[Your LinkedIn link here]",
+        "Email": "[your.email@example.com]",
+        "Portfolio": "[your portfolio link]"
+    }
+
+# A quote to live by.
+QUOTE = "Design is not just what it looks like and feels like. Design is how it works."
+AUTHOR = "Steve Jobs"
+
+print(f"\nQuote of the Day: \"{QUOTE}\" - {AUTHOR}")
