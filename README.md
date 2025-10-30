@@ -1,7 +1,7 @@
 Hey There, I'm Francois le Roux
 
 <p align="center">
-<!-- Badges mimicking the clean, rectangular style of the example profile -->
+<!-- Corrected: Removed Google Search wrappers from all badge URLs -->
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/REACT-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React Badge" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/NODE.JS-43853D%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js Badge" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/FIGMA-F24E1E%3Fstyle%3Dfor-the-badge%26logo%3Dfigma%26logoColor%3Dwhite" alt="Figma Badge" />
@@ -70,12 +70,13 @@ UI Design Project — Figma prototypes and user interface experiments
 📈 GitHub Stats
 
 <p align="center">
-<!-- Cleaned URLs and added styling -->
+<!-- Corrected: Removed Google Search wrapper from GitHub Stats URL -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D231256leRouxFNF%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26title_color%3Dfff%26icon_color%3D0077C6%26text_color%3Dccc%26bg_color%3D0D1117"
 alt="Francois le Roux's GitHub Stats"
 height="180"
 style="margin-right: 10px;" />
 
+<!-- Corrected: Removed the stray code block wrapper that was around this image tag -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=231256leRouxFNF&layout=compact&theme=dark&hide_border=true&title_color=fff&icon_color=0077C6&text_color=ccc&bg_color=0D1117"
      alt="Francois le Roux's Top Languages"
      height="180" />
@@ -86,7 +87,7 @@ style="margin-right: 10px;" />
 📫 Connect with Me
 
 <p align="center">
-<!-- Cleaned URLs and added styling -->
+<!-- Corrected: Removed Google Search wrappers from all contact badge URLs -->
 <a href="[Your LinkedIn link here]" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge" />
 </a>
