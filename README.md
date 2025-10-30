@@ -4,6 +4,10 @@
 
 <p align="center">
     <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark)" alt="Skill Badges" />
+    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark)" alt="Skill Badges" />
+    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark)" alt="Skill Badges" />
+    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark)" alt="Skill Badges" />
+    <img src="[https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=react,nodejs,figma,html,css,js,mysql,mongodb&theme=dark)" alt="Skill Badges" />
 </p>
 
 ```javascript
@@ -18,8 +22,6 @@ const developer = {
 };
 
 console.log(`Hello World! My name is ${developer.name}. 👋`);
-
----
 
 /* * Tech Stack & Projects
 */
@@ -39,8 +41,6 @@ public class DeveloperSkills
         new Project("UI Design Project", "Figma prototypes and user interface experiments", "https://github.com/231256leRouxFNF/UIDesignProject")
     };
 }
-
----
 
 # connect_with_me.py
 
