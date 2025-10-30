@@ -67,38 +67,31 @@ public class MyProfile : Developer
     public string CurrentQuest = "Designing seamless user experiences that feel as good as they look.";
     public int Level = 21; // approximate years + XP points in creativity
 
-    // 🧰 Skill Tree
-    public string[] CoreSkills = 
-    {
-        "React Mastery 🌐",
-        "Node.js Alchemy 🔥",
-        "UI/UX Spellcasting ✨",
-        "Pixel Perfection ⚡",
-        "Design Thinking 🧩"
-    };
 
     // 🎬 Favorite Worlds & Inspirations
     public string[] FavoriteGames = 
     {
-        "The Witcher 3: Wild Hunt",
-        "God of War (2018)",
-        "Red Dead Redemption 2",
+        "HackNet",
+        "Assetto Corsa",
+        "Forza",
         "Cyberpunk 2077"
     };
 
     public string[] FavoriteMovies =
     {
-        "Interstellar 🌌",
-        "Inception 🌀",
-        "Blade Runner 2049 💡",
-        "Spider-Man: Across the Spider-Verse 🕸️"
+        "To many to choose", 
+    };
+
+    public string[] FavoriteSeries =
+    {
+        "Dr Who", 
     };
 
     public string[] FavoriteGenres =
     {
-        "Sci-Fi & Futuristic Worlds 🪐",
-        "Fantasy Adventures ⚔️",
-        "Lo-Fi & Synthwave Vibes 🎵"
+        "Sci-Fi & Futuristic Worlds",
+        "Fantasy Adventures",
+        "Lo-Fi & Synthwave Vibes"
     };
 
     // 💬 Soft Skills (Passive Abilities)
@@ -114,11 +107,10 @@ public class MyProfile : Developer
     // 🌿 Side Quests
     public string[] Hobbies =
     {
-        "Exploring hidden hiking trails ⛰️",
-        "Capturing moments through photography 📸",
-        "Sketching UI concepts on random napkins ✏️",
-        "Listening to chillwave playlists while coding 🎧",
-        "Trying (and failing) latte art ☕"
+        "Driving",
+        "Hanging out with friends",
+        "Drawing",
+        "PLaying alto-saxophone",
     };
 
     // 🕹️ Fun Fact
