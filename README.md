@@ -10,9 +10,28 @@
 
 ---
 
-## 🧠 About Me & Tech Stack
+## 🎨 About Me — The Creative Debugger
 
-```
+Hey there! I'm **Francois le Roux**, a curious mind who believes design and code are two halves of the same heartbeat 💡.  
+Currently on a mission to craft **beautiful, user-centered interfaces** that don’t just *work* — they *feel right*.
+
+I’m a **UI/UX Developer & Student** who loves experimenting with colors, layouts, and clean code.  
+When I’m not knee-deep in `React` components or tweaking Figma prototypes, you’ll find me sketching interface ideas, breaking things just to fix them better, or hunting for the next great hiking spot ⛰️.
+
+💬 **Philosophy:**  
+> “Good design speaks. Great design listens.”  
+
+✨ **My Current Side Quests:**  
+- Perfecting smooth, reactive UI animations ⚡  
+- Making accessibility cool again ♿  
+- Balancing the *“pixel-perfect”* with the *“user-perfect”* mindset  
+- Learning the mystical art of advanced React patterns 🧙‍♂️  
+
+---
+
+## 💻 Tech Stack (a.k.a. my digital toolbox)
+
+```js
 // francois-profile.js
 
 const developer = {
@@ -29,50 +48,52 @@ const developer = {
   learning: ["Advanced React Patterns", "Microservices", "Accessibility Design"]
 };
 
-console.log("Starting up profile...");
+console.log("🚀 Booting up Francois’ creative engine...");
 console.table(developer.skills.frontend);
-console.log(`Current focus: ${developer.learning[0]}.`);
+console.log(`🎯 Current focus: ${developer.learning[0]}.`);
 ```
 
 ---
+
+```
 public class MyProfile : Developer
 {
     public string[] Hobbies = 
     {
         "Exploring new hiking trails and historical sites ⛰️",
-        "Mastering [Specific Non-Tech Skill, e.g., baking]",
-        "Listening to music and podcasts 🎧"
+        "Mastering the art of [insert cool non-tech skill here 🍞]",
+        "Listening to design podcasts and chill playlists 🎧"
     };
 
     public enum SoftSkills
     {
-        UserEmpathy,
-        DetailOrientedDesign,
-        AgileCollaboration,
-        PersistentProblemSolver
+        EmpathyDrivenDesign,
+        DetailOrientedCraftsmanship,
+        TeamCollaboration,
+        CreativeProblemSolving
     }
 }
 ```
 
+---
+
 🌟 Featured Projects
 
-These are some of my favorite works — feel free to explore!
+Here’s a small gallery of things I’ve built, designed, and debugged into life:
 
-AutoHub — A car management platform built with React & Node.js
+🚗 AutoHub — A car management platform built with React & Node.js
 🔗 View Repository
 
-Portfolio Website — My personal portfolio and design showcase
+🌐 Portfolio Website — My digital canvas showcasing projects & creative experiments
 🔗 View Repository
 
-UI Design Project — Figma prototypes and user interface experiments
+🎨 UI Design Project — Figma prototypes and playful interface explorations
 🔗 View Repository
 
-```
-
-📈 GitHub Stats
+📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=231256leRouxFNF&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=fff&icon_color=0077C6&text_color=ccc&bg_color=0D1117" alt="Francois le Roux's GitHub Stats" height="180" style="margin-right: 10px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=231256leRouxFNF&layout=compact&theme=dark&hide_border=true&title_color=fff&icon_color=0077C6&text_color=ccc&bg_color=0D1117" alt="Francois le Roux's Top Languages" height="180" /> </p>
-📫 Connect with Me
+🌍 Connect with Me
 <p align="center"> <a href="[Your LinkedIn link here]" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> <a href="mailto:[your.email@example.com]" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /> </a> <a href="[your portfolio link]" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio Badge" /> </a> </p>
-<p>Work in progress</p>
-
-<p align="center"> <small>“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs</small> </p> ```
+<p align="center"> 🧩 Work in Progress — Always learning, always building. 
+  <br><br>
+<small>“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs</small> </p> ```
