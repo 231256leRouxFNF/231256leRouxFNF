@@ -16,7 +16,7 @@ Hey there! I'm **Francois le Roux**, a curious mind who believes design and code
 Currently on a mission to craft **beautiful, user-centered interfaces** that don’t just *work* — they *feel right*.
 
 I’m a **UI/UX Developer & Student** who loves experimenting with colors, layouts, and clean code.  
-When I’m not knee-deep in `React` components or tweaking Figma prototypes, you’ll find me sketching interface ideas, breaking things just to fix them better, or hunting for the next great hiking spot ⛰️.
+When I’m not knee-deep in `React` components or tweaking Figma prototypes, you’ll find me sketching interface ideas, breaking things just to fix them better, working out, or out with friends and family.
 
 💬 **Philosophy:**  
 > “Good design speaks. Great design listens.”  
@@ -24,7 +24,6 @@ When I’m not knee-deep in `React` components or tweaking Figma prototypes, you
 ✨ **My Current Side Quests:**  
 - Perfecting smooth, reactive UI animations ⚡  
 - Making accessibility cool again ♿  
-- Balancing the *“pixel-perfect”* with the *“user-perfect”* mindset  
 - Learning the mystical art of advanced React patterns 🧙‍♂️  
 
 ---
