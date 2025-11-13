@@ -1,153 +1,141 @@
-Hello There, I'm Francois le Roux
+# Francois le Roux
+UI/UX Developer · Student · Frontend-focused builder
 
 <p align="center">
-<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
-<img src="https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
-<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
-<img src="https://img.shields.io/badge/UX%20DESIGN-0077C6?style=for-the-badge&logo=sketch&logoColor=white" alt="UX Design Badge" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+  <img alt="React" src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="UX" src="https://img.shields.io/badge/UX%20DESIGN-0077C6?style=for-the-badge&logo=sketch&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-About Me —
+---
 
-Hey there! I'm Francois le Roux, a curious mind who believes design and code are two halves of the same heartbeat.
-Currently on a mission to craft beautiful, user-centered interfaces that don’t just work — they feel right.
 
-I’m a UI/UX Developer & Student who loves experimenting with colors, layouts, and clean code.
-When I’m not knee-deep in React components or tweaking Figma prototypes, you’ll find me sketching interface ideas, breaking things just to fix them better, working out, or out with friends and family.
-
-💬 Philosophy:
-
-“Good design speaks. Great design listens.”
-
-My Current Side Quests:
-
-Perfecting smooth, reactive UI animations
-
-Making accessibility cool again
-
-Learning the mystical art of advanced React patterns
-
-Tech Stack (a.k.a. my digital toolbox)
-
-{
+```javascript
 // francois-profile.js
-
 const developer = {
   name: "Francois le Roux",
   title: "UI/UX Developer & Student",
-  description: "Passionate about creating intuitive and visually appealing web experiences.",
-  education: "Currently studying at [Your Institution Name]",
-  skills: {
-    frontend: ["React", "HTML", "CSS", "JavaScript"],
-    backend: ["Node.js", "Express"],
-    database: ["MySQL", "MongoDB"],
-    tools: ["Figma", "Git", "VS Code"]
-  },
-  learning: ["Advanced React Patterns", "Microservices", "Accessibility Design"]
+  location: "Cape Town, South Africa",
+  summary: "I combine visual design and front-end engineering to craft user experiences that are clear, accessible, and a pleasure to use.",
+  philosophy: "Good design speaks. Great design listens.",
+  currentFocus: [
+    "Advanced React patterns",
+    "Smooth UI animations",
+    "Accessibility improvements"
+  ],
+  hobbies: ["Drawing", "Driving", "Alto saxophone", "Working out"],
+  contact: {
+    email: "your.email@example.com",
+    linkedin: "https://www.linkedin.com/in/your-linkedin",
+    portfolio: "https://your-portfolio.example.com"
+  }
 };
 
-console.log("🚀 Booting up Francois’ creative engine...");
-console.table(developer.skills.frontend);
-console.log(`🎯 Current focus: ${developer.learning[0]}.`);
-}
+console.table(developer);
+```
 
+---
 
-// Character Profile: Francois le Roux — The Creative Debugger
+## Tech & Tools (code-style)
+This section is presented as JSON for IDE-like coloring and easy scanning.
 
-public class MyProfile : Developer
+```json
 {
-    // Character Stats
-    public string Name = "Francois le Roux";
-    public string Class = "UI/UX Developer";
-    public string Alignment = "Chaotic Good (Fueled by Coffee ☕)";
-    public string CurrentQuest = "Designing seamless user experiences that feel as good as they look.";
-    public int Level = 21; // approximate years + XP points in creativity
-
-
-    // Favorite Worlds & Inspirations
-    public string[] FavoriteGames =
-    {
-        "HackNet",
-        "Assetto Corsa",
-        "Forza",
-        "Cyberpunk 2077"
-    };
-
-    public string[] FavoriteMovies =
-    {
-        "Transformers franchise",
-        "Fast & Furious franchise",
-        "Star Wars franchise",
-    };
-
-    public string[] FavoriteSeries =
-    {
-        "Dr Who",
-        "Mr Robot",
-    };
-
-    public string[] FavoriteGenres =
-    {
-        "Sci-Fi & Futuristic Worlds",
-        "Fantasy Adventures",
-        "Lo-Fi & Synthwave Vibes"
-    };
-
-    // Soft Skills (Passive Abilities)
-    public enum SoftSkills
-    {
-        TeamCollaboration,
-        Curiosity
-    }
-
-    // Side Quests
-    public string[] Hobbies =
-    {
-        "Driving",
-        "Hanging out with friends",
-        "Drawing",
-        "PLaying alto-saxophone",
-    };
-
-    // Fun Fact
-    public string FunFact = "Believes every bug hides a lesson — and occasionally, a good laugh.";
+  "frontend": ["React", "JavaScript (ES6+)", "HTML5", "CSS3"],
+  "backend": ["Node.js", "Express"],
+  "databases": ["MongoDB", "MySQL"],
+  "design": ["Figma"],
+  "tools": ["Git", "VS Code", "Chrome DevTools"],
+  "learning": ["Advanced React patterns", "Microservices", "Accessibility Design"]
 }
+```
 
+---
 
-Featured Projects
+## Featured projects
 
-Here’s a small gallery of things I’ve built, designed, and debugged into life:
+Below are three recent projects — click the titles to open the repository. Each entry includes a short description, key technologies, highlights, and a placeholder for a mockup image (replace with actual screenshot/mockup).
 
-Automotive Hub (DV200) — A robust management application built with a focus on UI/UX principles.
-🔗 View Repository
+---
 
-Wine E-Commerce Site — A group project showcasing full-stack development and professional design principles for an online retail experience.
-🔗 View Repository
+### Automotive Hub (DV200)
+Repository: https://github.com/231256leRouxFNF/AutomotiveHub-DV200
 
-Football Stats Tracker — A formative project demonstrating data fetching and presentation skills.
-🔗 View Repository
+Description  
+A management dashboard tailored for automotive operations — focused on inventory management, vehicle records, and streamlined admin workflows with an emphasis on UI/UX and responsive layouts.
 
-GitHub Stats
+Key technologies  
+React · JavaScript · CSS
 
+Highlights
+- Clean dashboard layout with intuitive navigation
+- Reactive filtering and data presentation for vehicle inventory
+- Built with responsive breakpoints and accessibility considerations
+
+Mockup / Screenshot  
+![Automotive Hub mockup](https://via.placeholder.com/900x400.png?text=Automotive+Hub+Mockup+--+Replace+with+your+image)
+
+---
+
+### Wine E-Commerce Site
+Repository: https://github.com/231256leRouxFNF/Wine-E-commerce-site
+
+Description  
+A collaborative group project delivering a polished e-commerce experience for wine products. Focused on product discovery, shopping flow, and consistent UI components to support conversions.
+
+Key technologies  
+React · JavaScript · CSS
+
+Highlights
+- Product catalog with filtering and product detail views
+- Cart and checkout flow (demo/POC)
+- Collaborative component design and consistent visual language
+
+Mockup / Screenshot  
+![Wine E-Commerce mockup](https://via.placeholder.com/900x400.png?text=Wine+E-commerce+Mockup+--+Replace+with+your+image)
+
+---
+
+### Football Stats Tracker (Formative)
+Repository: https://github.com/231256leRouxFNF/formative-one-football-stats
+
+Description  
+A formative project that fetches and displays football statistics with an emphasis on clear data presentation and responsive visualizations.
+
+Key technologies  
+JavaScript · React · CSS
+
+Highlights
+- Data fetching and dynamic presentation of stats
+- Responsive visualizations and summary cards
+- Good practice for API integration and state management
+
+Mockup / Screenshot  
+![Football Stats mockup](https://via.placeholder.com/900x400.png?text=Football+Stats+Mockup+--+Replace+with+your+image)
+
+---
+
+## GitHub stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=231256leRouxFNF&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=fff&icon_color=0077C6&text_color=ccc&bg_color=0D1117" alt="Francois le Roux's GitHub Stats" height="180" style="margin-right: 10px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=231256leRouxFNF&layout=compact&theme=dark&hide_border=true&title_color=fff&icon_color=0077C6&text_color=ccc&bg_color=0D1117" alt="Francois le Roux's Top Languages" height="180" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=231256leRouxFNF&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=fff&icon_color=0077C6" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=231256leRouxFNF&layout=compact&theme=dark&hide_border=true&title_color=fff&icon_color=0077C6&text_color=ccc&bg_color=0D1117" />
 </p>
 
-Connect with Me
+---
 
+## Connect
 <p align="center">
-<a href="[Your LinkedIn link here]" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
-<a href="mailto:[your.email@example.com]" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-</a>
-<a href="[your portfolio link]" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio Badge" />
-</a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://your-portfolio.example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
-<p align="center"> Work in Progress — Always learning, always building.
 
-
+---
