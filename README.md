@@ -30,7 +30,7 @@ Learning the mystical art of advanced React patterns
 
 Tech Stack (a.k.a. my digital toolbox)
 
-[
+{
 // francois-profile.js
 
 const developer = {
@@ -50,9 +50,7 @@ const developer = {
 console.log("🚀 Booting up Francois’ creative engine...");
 console.table(developer.skills.frontend);
 console.log(`🎯 Current focus: ${developer.learning[0]}.`);
-
-
-]
+}
 
 
 // Character Profile: Francois le Roux — The Creative Debugger
