@@ -1,121 +1,153 @@
-```markdown
-# Francois le Roux
-UI/UX Developer · Student · Frontend-focused builder
+Hello There, I'm Francois le Roux
 
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="UX" src="https://img.shields.io/badge/UX%20DESIGN-0077C6?style=for-the-badge&logo=sketch&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
+<img src="https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
+<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
+<img src="https://img.shields.io/badge/UX%20DESIGN-0077C6?style=for-the-badge&logo=sketch&logoColor=white" alt="UX Design Badge" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
 </p>
 
----
+About Me —
 
-Hello — I'm Francois. I combine visual design and front-end engineering to craft user experiences that are clear, accessible, and a pleasure to use. I'm a UI/UX Developer and student focused on clean components, thoughtful interactions, and bringing prototypes to production.
+Hey there! I'm Francois le Roux, a curious mind who believes design and code are two halves of the same heartbeat.
+Currently on a mission to craft beautiful, user-centered interfaces that don’t just work — they feel right.
 
-Core principles:
-- Design that listens to users
-- Clean, maintainable code
-- Accessibility-first thinking
+I’m a UI/UX Developer & Student who loves experimenting with colors, layouts, and clean code.
+When I’m not knee-deep in React components or tweaking Figma prototypes, you’ll find me sketching interface ideas, breaking things just to fix them better, working out, or out with friends and family.
 
-Current focus:
-- Advanced React patterns
-- Smooth UI animations
-- Accessibility improvements
+💬 Philosophy:
 
----
+“Good design speaks. Great design listens.”
 
-## Tech & Tools
-- Frontend: React, JavaScript (ES6+), HTML5, CSS3
-- Backend: Node.js, Express
-- Databases: MongoDB, MySQL
-- Design & workflow: Figma, Git, VS Code
+My Current Side Quests:
 
----
+Perfecting smooth, reactive UI animations
 
-## Featured projects
+Making accessibility cool again
 
-Below are three recent projects — click the titles to open the repository. Each entry includes a short description, key technologies, highlights, and a placeholder for a mockup image (replace with actual screenshot/mockup).
+Learning the mystical art of advanced React patterns
 
----
+Tech Stack (a.k.a. my digital toolbox)
 
-### 1) Automotive Hub (DV200)
-Repository: https://github.com/231256leRouxFNF/AutomotiveHub-DV200
+{
+// francois-profile.js
 
-Description:
-A management dashboard tailored for an automotive business — focuses on inventory, vehicle records, and streamlined admin workflows with a strong emphasis on UI/UX and responsive layouts.
+const developer = {
+  name: "Francois le Roux",
+  title: "UI/UX Developer & Student",
+  description: "Passionate about creating intuitive and visually appealing web experiences.",
+  education: "Currently studying at [Your Institution Name]",
+  skills: {
+    frontend: ["React", "HTML", "CSS", "JavaScript"],
+    backend: ["Node.js", "Express"],
+    database: ["MySQL", "MongoDB"],
+    tools: ["Figma", "Git", "VS Code"]
+  },
+  learning: ["Advanced React Patterns", "Microservices", "Accessibility Design"]
+};
 
-Tech:
-React, Node.js, CSS
+console.log("🚀 Booting up Francois’ creative engine...");
+console.table(developer.skills.frontend);
+console.log(`🎯 Current focus: ${developer.learning[0]}.`);
+}
 
-Highlights:
-- Clean dashboard layout with intuitive navigation
-- Reactive filtering and data presentation for vehicle inventory
-- Designed with accessibility and responsive breakpoints in mind
 
-Mockup / Screenshot
-![Automotive Hub mockup](https://via.placeholder.com/900x400.png?text=Automotive+Hub+Mockup+--+Replace+with+your+image)
+// Character Profile: Francois le Roux — The Creative Debugger
 
----
+public class MyProfile : Developer
+{
+    // Character Stats
+    public string Name = "Francois le Roux";
+    public string Class = "UI/UX Developer";
+    public string Alignment = "Chaotic Good (Fueled by Coffee ☕)";
+    public string CurrentQuest = "Designing seamless user experiences that feel as good as they look.";
+    public int Level = 21; // approximate years + XP points in creativity
 
-### 2) Wine E-Commerce Site
-Repository: https://github.com/231256leRouxFNF/Wine-E-commerce-site
 
-Description:
-A group project implementing a professional e-commerce experience for wine products. Focus on product discovery, shopping flow, and polished UI components that support conversions.
+    // Favorite Worlds & Inspirations
+    public string[] FavoriteGames =
+    {
+        "HackNet",
+        "Assetto Corsa",
+        "Forza",
+        "Cyberpunk 2077"
+    };
 
-Tech:
-React, JavaScript, CSS
+    public string[] FavoriteMovies =
+    {
+        "Transformers franchise",
+        "Fast & Furious franchise",
+        "Star Wars franchise",
+    };
 
-Highlights:
-- Product catalog with filtering and product detail views
-- Cart and checkout flow (demo/POC)
-- Collaboratively designed components and consistent visual language
+    public string[] FavoriteSeries =
+    {
+        "Dr Who",
+        "Mr Robot",
+    };
 
-Mockup / Screenshot
-![Wine E-Commerce mockup](https://via.placeholder.com/900x400.png?text=Wine+E-commerce+Mockup+--+Replace+with+your+image)
+    public string[] FavoriteGenres =
+    {
+        "Sci-Fi & Futuristic Worlds",
+        "Fantasy Adventures",
+        "Lo-Fi & Synthwave Vibes"
+    };
 
----
+    // Soft Skills (Passive Abilities)
+    public enum SoftSkills
+    {
+        TeamCollaboration,
+        Curiosity
+    }
 
-### 3) Football Stats Tracker (Formative)
-Repository: https://github.com/231256leRouxFNF/formative-one-football-stats
+    // Side Quests
+    public string[] Hobbies =
+    {
+        "Driving",
+        "Hanging out with friends",
+        "Drawing",
+        "PLaying alto-saxophone",
+    };
 
-Description:
-A formative project that fetches, parses, and displays football statistics. Focus on data presentation, charts, and a clean, readable layout for performance metrics.
+    // Fun Fact
+    public string FunFact = "Believes every bug hides a lesson — and occasionally, a good laugh.";
+}
 
-Tech:
-JavaScript, React, CSS
 
-Highlights:
-- Data fetching and dynamic presentation of stats
-- Responsive visualizations and compact summary cards
-- Good practice project for API integration and state management
+Featured Projects
 
-Mockup / Screenshot
-![Football Stats mockup](https://via.placeholder.com/900x400.png?text=Football+Stats+Mockup+--+Replace+with+your+image)
+Here’s a small gallery of things I’ve built, designed, and debugged into life:
 
----
+Automotive Hub (DV200) — A robust management application built with a focus on UI/UX principles.
+🔗 View Repository
 
-## GitHub stats
+Wine E-Commerce Site — A group project showcasing full-stack development and professional design principles for an online retail experience.
+🔗 View Repository
+
+Football Stats Tracker — A formative project demonstrating data fetching and presentation skills.
+🔗 View Repository
+
+GitHub Stats
+
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=231256leRouxFNF&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=fff&icon_color=0077C6" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=231256leRouxFNF&layout=compact&theme=dark&hide_border=true&title_color=fff&icon_color=0077C6&text_color=ccc&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=231256leRouxFNF&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=fff&icon_color=0077C6&text_color=ccc&bg_color=0D1117" alt="Francois le Roux's GitHub Stats" height="180" style="margin-right: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=231256leRouxFNF&layout=compact&theme=dark&hide_border=true&title_color=fff&icon_color=0077C6&text_color=ccc&bg_color=0D1117" alt="Francois le Roux's Top Languages" height="180" />
 </p>
 
----
+Connect with Me
 
-## Contact & links
-- LinkedIn: [Add your LinkedIn URL here]
-- Portfolio: [Add your portfolio URL here]
-- Email: your.email@example.com
+<p align="center">
+<a href="[Your LinkedIn link here]" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="mailto:[your.email@example.com]" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
+<a href="[your portfolio link]" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio Badge" />
+</a>
+</p>
+<p align="center"> Work in Progress — Always learning, always building.
 
----
 
-If you'd like, I can:
-- Replace the placeholder mockup images with actual screenshots if you upload them here
-- Generate a more compact or a developer-focused version (e.g., resume-like)
-- Add demo/live links and badges for each project
-
-Work in progress — always learning, always building.
-```
