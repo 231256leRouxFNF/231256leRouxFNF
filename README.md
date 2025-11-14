@@ -1,5 +1,12 @@
-# Francois le Roux
-UI/UX Developer · Student · Frontend-focused builder
+```markdown
+<p align="center">
+  <a href="https://github.com/231256leRouxFNF">
+    <img src="https://github.com/231256leRouxFNF.png" width="140" alt="Francois le Roux" />
+  </a>
+</p>
+
+<h1 align="center">Francois le Roux</h1>
+<p align="center">UI/UX Developer · Student · crafting accessible, pixel-perfect interfaces with React & Figma</p>
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -11,6 +18,8 @@ UI/UX Developer · Student · Frontend-focused builder
 
 ---
 
+## About me (code-style)
+To get the IDE-colour look, this section is presented as a JavaScript object. It will render with syntax highlighting on GitHub.
 
 ```javascript
 // francois-profile.js
@@ -54,66 +63,31 @@ This section is presented as JSON for IDE-like coloring and easy scanning.
 
 ---
 
-## Featured projects
+## DV200 Major Projects (Portfolio)
+The requirement asks for links to your DV200 major projects from semester 1 and 2. I have included the repositories I was given and added labeling placeholders — please confirm which two repos are the official DV200 majors and which semester (S1 or S2) each belongs to. Once you confirm, I will update the labels and final text.
 
-Below are three recent projects — click the titles to open the repository. Each entry includes a short description, key technologies, highlights, and a placeholder for a mockup image (replace with actual screenshot/mockup).
+- Automotive Hub (DV200) — Repository: https://github.com/231256leRouxFNF/AutomotiveHub-DV200  
+  Label: DV200 Major Project — (Semester 2) ← please confirm or correct  
+  Description: A management dashboard tailored for automotive operations — inventory, vehicle records, and streamlined admin workflows with emphasis on UI/UX and responsive layouts.  
+  Tech: React · JavaScript · CSS  
+  Mockup:  
+  ![Automotive Hub mockup](https://via.placeholder.com/900x400.png?text=Automotive+Hub+Mockup+--+Replace+with+your+image)
 
----
-
-### Automotive Hub (DV200)
-Repository: https://github.com/231256leRouxFNF/AutomotiveHub-DV200
-
-Description  
-A management dashboard tailored for automotive operations — focused on inventory management, vehicle records, and streamlined admin workflows with an emphasis on UI/UX and responsive layouts.
-
-Key technologies  
-React · JavaScript · CSS
-
-Highlights
-- Clean dashboard layout with intuitive navigation
-- Reactive filtering and data presentation for vehicle inventory
-- Built with responsive breakpoints and accessibility considerations
-
-Mockup / Screenshot  
-![Automotive Hub mockup](https://via.placeholder.com/900x400.png?text=Automotive+Hub+Mockup+--+Replace+with+your+image)
+- Wine E-Commerce Site — Repository: https://github.com/231256leRouxFNF/Wine-E-commerce-site  
+  Label: Group project — please confirm if this is a DV200 Major Project (S1 or S2) or not  
+  Description: Collaborative e-commerce experience for wine products — product discovery, shopping flow, and consistent UI components.  
+  Tech: React · JavaScript · CSS  
+  Mockup:  
+  ![Wine E-Commerce mockup](https://via.placeholder.com/900x400.png?text=Wine+E-commerce+Mockup+--+Replace+with+your+image)
 
 ---
 
-### Wine E-Commerce Site
-Repository: https://github.com/231256leRouxFNF/Wine-E-commerce-site
-
-Description  
-A collaborative group project delivering a polished e-commerce experience for wine products. Focused on product discovery, shopping flow, and consistent UI components to support conversions.
-
-Key technologies  
-React · JavaScript · CSS
-
-Highlights
-- Product catalog with filtering and product detail views
-- Cart and checkout flow (demo/POC)
-- Collaborative component design and consistent visual language
-
-Mockup / Screenshot  
-![Wine E-Commerce mockup](https://via.placeholder.com/900x400.png?text=Wine+E-commerce+Mockup+--+Replace+with+your+image)
-
----
-
-### Football Stats Tracker (Formative)
-Repository: https://github.com/231256leRouxFNF/formative-one-football-stats
-
-Description  
-A formative project that fetches and displays football statistics with an emphasis on clear data presentation and responsive visualizations.
-
-Key technologies  
-JavaScript · React · CSS
-
-Highlights
-- Data fetching and dynamic presentation of stats
-- Responsive visualizations and summary cards
-- Good practice for API integration and state management
-
-Mockup / Screenshot  
-![Football Stats mockup](https://via.placeholder.com/900x400.png?text=Football+Stats+Mockup+--+Replace+with+your+image)
+## Other notable projects
+- Football Stats Tracker (formative) — Repository: https://github.com/231256leRouxFNF/formative-one-football-stats  
+  Description: A formative project that fetches and displays football statistics, focusing on clear data presentation and responsive visualizations.  
+  Tech: JavaScript · React · CSS  
+  Mockup:  
+  ![Football Stats mockup](https://via.placeholder.com/900x400.png?text=Football+Stats+Mockup+--+Replace+with+your+image)
 
 ---
 
