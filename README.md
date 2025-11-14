@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <a href="https://github.com/231256leRouxFNF">
     <img src="https://github.com/231256leRouxFNF.png" width="140" alt="Francois le Roux" />
@@ -21,7 +21,7 @@
 ## About me (code-style)
 To get the IDE-colour look, this section is presented as a JavaScript object. It will render with syntax highlighting on GitHub.
 
-```javascript
+```
 // francois-profile.js
 const developer = {
   name: "Francois le Roux",
