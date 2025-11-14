@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/231256leRouxFNF">
     <img src="https://github.com/231256leRouxFNF.png" width="140" alt="Francois le Roux" />
@@ -21,7 +20,7 @@
 ## About me (code-style)
 To get the IDE-colour look, this section is presented as a JavaScript object. It will render with syntax highlighting on GitHub.
 
-```
+```javascript
 // francois-profile.js
 const developer = {
   name: "Francois le Roux",
@@ -64,18 +63,17 @@ This section is presented as JSON for IDE-like coloring and easy scanning.
 ---
 
 ## DV200 Major Projects (Portfolio)
-The requirement asks for links to your DV200 major projects from semester 1 and 2. I have included the repositories I was given and added labeling placeholders — please confirm which two repos are the official DV200 majors and which semester (S1 or S2) each belongs to. Once you confirm, I will update the labels and final text.
+Below are links to the DV200 major project repositories. Please confirm semester labels and I will update them.
 
-- Automotive Hub (DV200) — Repository: https://github.com/231256leRouxFNF/AutomotiveHub-DV200  
-  Label: DV200 Major Project — (Semester 2) ← please confirm or correct  
-  Description: A management dashboard tailored for automotive operations — inventory, vehicle records, and streamlined admin workflows with emphasis on UI/UX and responsive layouts.  
+- Automotive Hub (DV200) — https://github.com/231256leRouxFNF/AutomotiveHub-DV200  
+  Description: Management dashboard for automotive operations — inventory, vehicle records, admin workflows.  
   Tech: React · JavaScript · CSS  
   Mockup:  
   ![Automotive Hub mockup](https://via.placeholder.com/900x400.png?text=Automotive+Hub+Mockup+--+Replace+with+your+image)
 
-- Wine E-Commerce Site — Repository: https://github.com/231256leRouxFNF/Wine-E-commerce-site  
-  Label: Group project — please confirm if this is a DV200 Major Project (S1 or S2) or not  
-  Description: Collaborative e-commerce experience for wine products — product discovery, shopping flow, and consistent UI components.  
+- Wine E-Commerce Site — https://github.com/231256leRouxFNF/Wine-E-commerce-site  
+  Note: Group work — confirm if DV200 major or not.  
+  Description: Polished e-commerce experience for wine products — product discovery and shopping flow.  
   Tech: React · JavaScript · CSS  
   Mockup:  
   ![Wine E-Commerce mockup](https://via.placeholder.com/900x400.png?text=Wine+E-commerce+Mockup+--+Replace+with+your+image)
@@ -83,8 +81,8 @@ The requirement asks for links to your DV200 major projects from semester 1 and 
 ---
 
 ## Other notable projects
-- Football Stats Tracker (formative) — Repository: https://github.com/231256leRouxFNF/formative-one-football-stats  
-  Description: A formative project that fetches and displays football statistics, focusing on clear data presentation and responsive visualizations.  
+- Football Stats Tracker (formative) — https://github.com/231256leRouxFNF/formative-one-football-stats  
+  Description: Fetches and displays football statistics; emphasis on clear data presentation and responsive visualizations.  
   Tech: JavaScript · React · CSS  
   Mockup:  
   ![Football Stats mockup](https://via.placeholder.com/900x400.png?text=Football+Stats+Mockup+--+Replace+with+your+image)
@@ -96,6 +94,30 @@ The requirement asks for links to your DV200 major projects from semester 1 and 
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=231256leRouxFNF&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=fff&icon_color=0077C6" />
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=231256leRouxFNF&layout=compact&theme=dark&hide_border=true&title_color=fff&icon_color=0077C6&text_color=ccc&bg_color=0D1117" />
 </p>
+
+---
+
+## Contributions & Streak
+You shared an example (Image 1) showing a streak/summary card. I added two common widgets below that replicate that information:
+
+- Streak card (total contributions, current streak, longest streak)
+- Contribution activity graph (calendar-style)
+
+Paste / use these image URLs directly — they generate dynamic images for your username.
+
+<p align="center">
+  <!-- Streak stats (matches the layout in your screenshot) -->
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=231256leRouxFNF&theme=dark&fire=FF8C00&ring=0077C6&dates=true" />
+
+  <!-- Activity graph (contribution calendar) -->
+  <br /><br />
+  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=231256leRouxFNF&theme=github-dark&area=true&hide_border=true" />
+</p>
+
+Notes on these widgets
+- The streak card replicates the look in your Image 1 (dark theme, orange fire color, blue ring). You can tweak parameters (theme, fire, ring) in the URL to change colors.
+- The activity graph shows your daily contributions calendar similar to GitHub's contribution heatmap.
+- Both images are dynamic; they fetch live data for your username and will update automatically.
 
 ---
 
@@ -113,3 +135,8 @@ The requirement asks for links to your DV200 major projects from semester 1 and 
 </p>
 
 ---
+
+Notes & next steps:
+- I added the streak and activity graph widgets to match the example you uploaded (Image 1). They use public image generators that read your GitHub activity.
+- If you prefer different colors, layout, or want the contribution summary card embedded in a different spot, tell me which color values or placement and I’ll update the README accordingly.
+- If you'd like, I can replace the placeholder mockups with actual screenshots if you upload them or point to their URLs.
