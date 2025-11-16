@@ -57,17 +57,17 @@ console.table(developer);
 
 ## DV200 Major Projects (Portfolio)
 - Automotive Hub (DV200) — https://github.com/231256leRouxFNF/AutomotiveHub-DV200  
-  A management dashboard tailored for automotive operations — inventory, vehicle records, admin workflows.  
+  A management dashboard tailored for automotive operations — inventory, vehicle records, admin workflows. This app streamlines the management of automotive businesses by providing tools to track inventory, maintain vehicle records, and optimize administrative workflows.  
   Tech: React · JavaScript · CSS  
   Mockup: ![Automotive Hub mockup](mock-ups/Autohub.jpg)
 
 - Wine E-Commerce Site — https://github.com/231256leRouxFNF/Wine-Ecommerce-site  
-  Group project (confirm if this is a DV200 major).  
+  A collaborative project to create an online platform for wine enthusiasts. This app allows users to browse, search, and purchase wines, with a focus on user-friendly navigation and a visually appealing design.  
   Tech: React · JavaScript · CSS  
   Mockup: ![Wine E-Commerce mockup](mock-ups/E-Wine.jpg)
 
 - Football Stats Tracker (formative) — https://github.com/231256leRouxFNF/formative-one-football-stats  
-  Fetches and displays football statistics; clear data presentation and responsive visualizations.  
+  A web application designed to fetch and display football statistics in a clear and interactive manner. Users can explore player and team stats, view responsive visualizations, and gain insights into football data.  
   Tech: JavaScript · React · CSS  
   Mockup: ![Football Stats mockup](mock-ups/football-stats.png)
 
