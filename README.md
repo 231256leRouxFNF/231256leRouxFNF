@@ -33,8 +33,8 @@ const developer = {
   ],
   contact: {
     email: "your.email@example.com",
-    linkedin: "https://www.linkedin.com/in/your-linkedin",
-    portfolio: "https://your-portfolio.example.com"
+    // linkedin: "https://www.linkedin.com/in/your-linkedin",
+    // portfolio: "https://your-portfolio.example.com"
   }
 };
 console.table(developer);
@@ -59,17 +59,17 @@ console.table(developer);
 - Automotive Hub (DV200) — https://github.com/231256leRouxFNF/AutomotiveHub-DV200  
   A management dashboard tailored for automotive operations — inventory, vehicle records, admin workflows.  
   Tech: React · JavaScript · CSS  
-  Mockup: ![Automotive Hub mockup](assets/automotive-mockup.png)
+  Mockup: ![Automotive Hub mockup](mock-ups/Autohub.jpg)
 
 - Wine E-Commerce Site — https://github.com/231256leRouxFNF/Wine-Ecommerce-site  
   Group project (confirm if this is a DV200 major).  
   Tech: React · JavaScript · CSS  
-  Mockup: ![Wine E-Commerce mockup](assets/wine-mockup.png)
+  Mockup: ![Wine E-Commerce mockup](mock-ups/E-Wine.jpg)
 
 - Football Stats Tracker (formative) — https://github.com/231256leRouxFNF/formative-one-football-stats  
   Fetches and displays football statistics; clear data presentation and responsive visualizations.  
   Tech: JavaScript · React · CSS  
-  Mockup: ![Football Stats mockup](assets/football-mockup.png)
+  Mockup: ![Football Stats mockup](mock-ups/football-stats.png)
 
 ---
 
