@@ -23,8 +23,7 @@
 const developer = {
   name: "Francois le Roux",
   title: "UI/UX Developer & Student",
-  location: "Cape Town, South Africa",
-  summary: "I combine visual design and front‑end engineering to craft user experiences that are clear, accessible, and a pleasure to use.",
+  location: "Pretoria, South Africa",
   philosophy: "Good design speaks. Great design listens.",
   currentFocus: [
     "Advanced React patterns",
@@ -57,18 +56,33 @@ console.table(developer);
 
 ## DV200 Major Projects (Portfolio)
 - Automotive Hub (DV200) — https://github.com/231256leRouxFNF/AutomotiveHub-DV200  
-  A management dashboard tailored for automotive operations — inventory, vehicle records, admin workflows. This app streamlines the management of automotive businesses by providing tools to track inventory, maintain vehicle records, and optimize administrative workflows.  
-  Tech: React · JavaScript · CSS  
+A robust management dashboard designed for automotive businesses. This application focuses on inventory tracking, vehicle records management, and administrative workflow o. With a user-centric interface, it ensures seamless usability and efficiency in day-to-day operations.
+
+Technologies Used:  
+- **JavaScript** (77.5%)  
+- **CSS** (22.3%)  
+- **HTML** (0.2%)  
+
   Mockup: ![Automotive Hub mockup](mock-ups/Autohub.jpg)
 
 - Wine E-Commerce Site — https://github.com/231256leRouxFNF/Wine-Ecommerce-site  
-  A collaborative project to create an online platform for wine enthusiasts. This app allows users to browse, search, and purchase wines, with a focus on user-friendly navigation and a visually appealing design.  
-  Tech: React · JavaScript · CSS  
+A collaborative project creating an online retail platform for wine products. Features include product catalog browsing, filtering, and a simulated shopping cart. This app emphasizes professional, polished design and user engagement focused on enhancing the e-commerce experience.
+ 
+Technologies Used:  
+- **JavaScript** (64.2%)  
+- **CSS** (35.2%)  
+- **HTML** (0.6%)
+
   Mockup: ![Wine E-Commerce mockup](mock-ups/E-Wine.jpg)
 
 - Football Stats Tracker (formative) — https://github.com/231256leRouxFNF/formative-one-football-stats  
-  A web application designed to fetch and display football statistics in a clear and interactive manner. Users can explore player and team stats, view responsive visualizations, and gain insights into football data.  
-  Tech: JavaScript · React · CSS  
+  An app for tracking football statistics, fetching dynamic data from APIs, and presenting it in a clean and intuitive interface. Features responsive visualizations and highlights key performance metrics designed to demonstrate data-driven interactions effectively.
+  
+ Technologies Used:  
+- **JavaScript** (63.5%)  
+- **CSS** (34.4%)  
+- **HTML** (2.1%)
+  
   Mockup: ![Football Stats mockup](mock-ups/football-stats.png)
 
 ---
