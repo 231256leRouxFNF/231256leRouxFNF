@@ -135,8 +135,3 @@ Notes on these widgets
 </p>
 
 ---
-
-Notes & next steps:
-- I added the streak and activity graph widgets to match the example you uploaded (Image 1). They use public image generators that read your GitHub activity.
-- If you prefer different colors, layout, or want the contribution summary card embedded in a different spot, tell me which color values or placement and I’ll update the README accordingly.
-- If you'd like, I can replace the placeholder mockups with actual screenshots if you upload them or point to their URLs.
