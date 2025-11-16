@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="FLR Designs — Banner" style="max-width:1200px; width:100%; height:auto; object-fit:cover; border-radius:6px;" />
+  <img src="assets/FLR banner.png" alt="FLR Designs — Banner" style="max-width:1200px; width:100%; height:auto; object-fit:cover; border-radius:6px;" />
 </p>
 
 
