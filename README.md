@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/231256leRouxFNF">
-    <img src="https://github.com/231256leRouxFNF.png" width="140" alt="Francois le Roux" />
-  </a>
+  <img src="assets/banner.png" alt="FLR Designs — Banner" style="max-width:1200px; width:100%; height:auto; object-fit:cover; border-radius:6px;" />
 </p>
 
+
+
 <h1 align="center">Francois le Roux</h1>
-<p align="center">UI/UX Developer · Student · crafting accessible, pixel-perfect interfaces with React & Figma</p>
+<p align="center">UI/UX Developer · Student · crafting accessible, pixel‑perfect interfaces with React & Figma</p>
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -18,74 +18,58 @@
 ---
 
 ## About me (code-style)
-To get the IDE-colour look, this section is presented as a JavaScript object. It will render with syntax highlighting on GitHub.
-
 ```javascript
 // francois-profile.js
 const developer = {
   name: "Francois le Roux",
   title: "UI/UX Developer & Student",
   location: "Cape Town, South Africa",
-  summary: "I combine visual design and front-end engineering to craft user experiences that are clear, accessible, and a pleasure to use.",
+  summary: "I combine visual design and front‑end engineering to craft user experiences that are clear, accessible, and a pleasure to use.",
   philosophy: "Good design speaks. Great design listens.",
   currentFocus: [
     "Advanced React patterns",
     "Smooth UI animations",
     "Accessibility improvements"
   ],
-  hobbies: ["Drawing", "Driving", "Alto saxophone", "Working out"],
   contact: {
     email: "your.email@example.com",
     linkedin: "https://www.linkedin.com/in/your-linkedin",
     portfolio: "https://your-portfolio.example.com"
   }
 };
-
 console.table(developer);
 ```
 
 ---
 
 ## Tech & Tools (code-style)
-This section is presented as JSON for IDE-like coloring and easy scanning.
-
 ```json
 {
   "frontend": ["React", "JavaScript (ES6+)", "HTML5", "CSS3"],
   "backend": ["Node.js", "Express"],
   "databases": ["MongoDB", "MySQL"],
   "design": ["Figma"],
-  "tools": ["Git", "VS Code", "Chrome DevTools"],
-  "learning": ["Advanced React patterns", "Microservices", "Accessibility Design"]
+  "tools": ["Git", "VS Code", "Chrome DevTools"]
 }
 ```
 
 ---
 
 ## DV200 Major Projects (Portfolio)
-Below are links to the DV200 major project repositories. Please confirm semester labels and I will update them.
-
 - Automotive Hub (DV200) — https://github.com/231256leRouxFNF/AutomotiveHub-DV200  
-  Description: Management dashboard for automotive operations — inventory, vehicle records, admin workflows.  
+  A management dashboard tailored for automotive operations — inventory, vehicle records, admin workflows.  
   Tech: React · JavaScript · CSS  
-  Mockup:  
-  ![Automotive Hub mockup](https://via.placeholder.com/900x400.png?text=Automotive+Hub+Mockup+--+Replace+with+your+image)
+  Mockup: ![Automotive Hub mockup](assets/automotive-mockup.png)
 
-- Wine E-Commerce Site — https://github.com/231256leRouxFNF/Wine-E-commerce-site  
-  Note: Group work — confirm if DV200 major or not.  
-  Description: Polished e-commerce experience for wine products — product discovery and shopping flow.  
+- Wine E-Commerce Site — https://github.com/231256leRouxFNF/Wine-Ecommerce-site  
+  Group project (confirm if this is a DV200 major).  
   Tech: React · JavaScript · CSS  
-  Mockup:  
-  ![Wine E-Commerce mockup](https://via.placeholder.com/900x400.png?text=Wine+E-commerce+Mockup+--+Replace+with+your+image)
+  Mockup: ![Wine E-Commerce mockup](assets/wine-mockup.png)
 
----
-
-## Other notable projects
 - Football Stats Tracker (formative) — https://github.com/231256leRouxFNF/formative-one-football-stats  
-  Description: Fetches and displays football statistics; emphasis on clear data presentation and responsive visualizations.  
+  Fetches and displays football statistics; clear data presentation and responsive visualizations.  
   Tech: JavaScript · React · CSS  
-  Mockup:  
-  ![Football Stats mockup](https://via.placeholder.com/900x400.png?text=Football+Stats+Mockup+--+Replace+with+your+image)
+  Mockup: ![Football Stats mockup](assets/football-mockup.png)
 
 ---
 
@@ -98,26 +82,11 @@ Below are links to the DV200 major project repositories. Please confirm semester
 ---
 
 ## Contributions & Streak
-You shared an example (Image 1) showing a streak/summary card. I added two common widgets below that replicate that information:
-
-- Streak card (total contributions, current streak, longest streak)
-- Contribution activity graph (calendar-style)
-
-Paste / use these image URLs directly — they generate dynamic images for your username.
-
 <p align="center">
-  <!-- Streak stats (matches the layout in your screenshot) -->
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=231256leRouxFNF&theme=dark&fire=FF8C00&ring=0077C6&dates=true" />
-
-  <!-- Activity graph (contribution calendar) -->
   <br /><br />
   <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=231256leRouxFNF&theme=github-dark&area=true&hide_border=true" />
 </p>
-
-Notes on these widgets
-- The streak card replicates the look in your Image 1 (dark theme, orange fire color, blue ring). You can tweak parameters (theme, fire, ring) in the URL to change colors.
-- The activity graph shows your daily contributions calendar similar to GitHub's contribution heatmap.
-- Both images are dynamic; they fetch live data for your username and will update automatically.
 
 ---
 
@@ -135,3 +104,22 @@ Notes on these widgets
 </p>
 
 ---
+
+Notes
+- The README references the banner at assets/banner.png and project mockups at assets/*.png. To make everything render, add the banner file you provided to the repository at assets/banner.png and the mockup screenshots to the paths used above (or change paths to match your structure).
+- If you want me to commit the banner and update the README file directly, attach the banner file in this chat (upload it) or give me permission to push and I will commit the image to assets/banner.png and open a PR. If you prefer to upload manually, here are the two simple ways:
+
+1) GitHub web (drag & drop)
+- Open your repository on GitHub → click "Add file" → "Upload files" → drop the banner image and any mockups into an /assets folder (create one if needed) → commit.
+
+2) Git (command-line)
+- Save your banner as assets/banner.png, then:
+  - git checkout -b add-banner
+  - git add assets/banner.png README.md
+  - git commit -m "Add profile banner and update README"
+  - git push origin add-banner
+  - Open a PR on GitHub to merge to main.
+
+Tell me which option you prefer:
+- I will commit the banner + update README (you must upload the image file here), or
+- You will upload the banner and I'll finalize the README (or review and open a PR).
