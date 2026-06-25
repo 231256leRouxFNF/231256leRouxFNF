@@ -133,7 +133,3 @@ Notes
   - git commit -m "Add profile banner and update README"
   - git push origin add-banner
   - Open a PR on GitHub to merge to main.
-
-Tell me which option you prefer:
-- I will commit the banner + update README (you must upload the image file here), or
-- You will upload the banner and I'll finalize the README (or review and open a PR).
