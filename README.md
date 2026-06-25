@@ -118,18 +118,3 @@ Technologies Used:
 </p>
 
 ---
-
-Notes
-- The README references the banner at assets/banner.png and project mockups at assets/*.png. To make everything render, add the banner file you provided to the repository at assets/banner.png and the mockup screenshots to the paths used above (or change paths to match your structure).
-- If you want me to commit the banner and update the README file directly, attach the banner file in this chat (upload it) or give me permission to push and I will commit the image to assets/banner.png and open a PR. If you prefer to upload manually, here are the two simple ways:
-
-1) GitHub web (drag & drop)
-- Open your repository on GitHub → click "Add file" → "Upload files" → drop the banner image and any mockups into an /assets folder (create one if needed) → commit.
-
-2) Git (command-line)
-- Save your banner as assets/banner.png, then:
-  - git checkout -b add-banner
-  - git add assets/banner.png README.md
-  - git commit -m "Add profile banner and update README"
-  - git push origin add-banner
-  - Open a PR on GitHub to merge to main.
