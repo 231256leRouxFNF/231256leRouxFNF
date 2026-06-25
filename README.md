@@ -20,37 +20,43 @@
 
 ---
 
-## About Me 
+## About Me
 
+```javascript
 const francois = {
-  education: "Final-Year Creative Technology Student";
-  specialisation: "Interactive Development";
-  location: "Pretoria, South Africa";
+  education: "Final-Year Creative Technology Student",
+  specialisation: "Interactive Development",
+  location: "Pretoria, South Africa",
 
   background: [
     "UI/UX Design",
     "Frontend Development",
-    "Software Development'
+    "Software Development"
   ],
 
   currentlyLearning: [
     "Git & GitHub",
-    ".Net Development",
+    ".NET Development",
   ],
 
   currentGoal:
-  "Build strong software development skills, grow my portfolio, and secure a graduate or junior developer role.",
+    "Build strong software development skills, grow my portfolio, and secure a graduate or junior developer role.",
 
   interests: [
     "Web Applications",
     "User Experience Design",
     "Problem Solving",
-    "Continuous Learning",
-  ];
+    "Continuous Learning"
+  ]
+};
 
-  console.log(francois);
-
+console.log(francois);
 ```
+## Currently Working On:
+- Cisco JavaScript Essentials
+- Strengthening JavaScript fundamentals
+- Building portfolio projects
+- Seeking graduate and junior developer opportunities
 
 ## Most Recent Project
 
@@ -81,48 +87,66 @@ VELOURS was created to strengthen my frontend development skills by building a c
 * Vercel
 
 **Future Improvement**
-Convert the site to the React framework using Tailwind.css.
+* Convert the site to the React framework using Tailwind.css.
 
 🔗 Live Demo: [[Velours](https://velours-eight.vercel.app)]
 
-🔗 Repository: [[Repository]](https://github.com/231256leRouxFNF/VELOURS)
-
-```
-```
-
+🔗 Repository: [GitHub Repository](https://github.com/231256leRouxFNF/VELOURS)
 
 ---
 
-## DV200 Major Projects (Portfolio)
-- Automotive Hub (DV200) — https://github.com/231256leRouxFNF/AutomotiveHub-DV200  
-A robust management dashboard designed for automotive businesses. This application focuses on inventory tracking, vehicle records management, and administrative workflow o. With a user-centric interface, it ensures seamless usability and efficiency in day-to-day operations.
+## University Projects (Portfolio of 2025)
 
-Technologies Used:  
-- **JavaScript** (77.5%)  
-- **CSS** (22.3%)  
-- **HTML** (0.2%)  
-
-  Mockup: ![Automotive Hub mockup](mock-ups/Autohub.jpg)
-
-- Wine E-Commerce Site — https://github.com/231256leRouxFNF/Wine-Ecommerce-site  
-A collaborative project creating an online retail platform for wine products. Features include product catalog browsing, filtering, and a simulated shopping cart. This app emphasizes professional, polished design and user engagement focused on enhancing the e-commerce experience.
+## Automotive Hub
  
+🔗 Repository: [Automotive Hub](https://github.com/231256leRouxFNF/AutomotiveHub-DV200)
+- A social platform designed for car, motorcycle, and vehicle enthusiasts to connect, share content, and engage with the automotive community.
+
+- **Why I Built It**
+Built to explore community-driven applications, user interaction patterns, and frontend development within a niche automotive community.
+
 Technologies Used:  
-- **JavaScript** (64.2%)  
-- **CSS** (35.2%)  
-- **HTML** (0.6%)
+- **JavaScript**
+- **CSS** 
+- **HTML**
 
-  Mockup: ![Wine E-Commerce mockup](mock-ups/E-Wine.jpg)
+**Key Areas Explored**
+- User profiles
+- Community engagement
+- Social platform design
+- Frontend development
 
-- Football Stats Tracker (formative) — https://github.com/231256leRouxFNF/formative-one-football-stats  
-  An app for tracking football statistics, fetching dynamic data from APIs, and presenting it in a clean and intuitive interface. Features responsive visualizations and highlights key performance metrics designed to demonstrate data-driven interactions effectively.
+![Automotive Hub mockup](mock-ups/Autohub.jpg)
+
+## Wine E-Commerce Site
+
+🔗 Repository: [Wine E-Commerce](https://github.com/231256leRouxFNF/Wine-Ecommerce-site)
+- A collaborative university project focused on building an online wine retail experience.
+
+**Why We Built It**
+Developed as a team project to explore e-commerce workflows, product discovery, user experience design, and collaborative software development practices.
+
+Technologies Used:  
+- **JavaScript** 
+- **CSS** 
+- **HTML**
+
+![Wine E-Commerce mockup](mock-ups/E-Wine.jpg)
+
+## Football Stats Tracker 
+
+🔗 Repository: [Football Stats Tracker](https://github.com/231256leRouxFNF/formative-one-football-stats)
+- An app for tracking football statistics, fetching dynamic data from APIs, and presenting it in a clean and intuitive interface. Features responsive visualizations and highlights key performance metrics designed to demonstrate data-driven interactions effectively.
+
+- Why I Built It:
+  Created to learn API integration, data visualization and dynamic content rendering using JavaScript.
   
  Technologies Used:  
-- **JavaScript** (63.5%)  
-- **CSS** (34.4%)  
-- **HTML** (2.1%)
+- **JavaScript** 
+- **CSS**
+- **HTML**
   
-  Mockup: ![Football Stats mockup](mock-ups/football-stats.png)
+![Football Stats mockup](mock-ups/football-stats.png)
 
 ---
 
@@ -145,14 +169,11 @@ Technologies Used:
 
 ## Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/francois-le-roux-2415182a5/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:francoislerouxdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://your-portfolio.example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
