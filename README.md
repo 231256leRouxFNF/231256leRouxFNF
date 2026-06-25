@@ -5,52 +5,91 @@
 
 
 <h1 align="center">Francois le Roux</h1>
-<p align="center">UI/UX Developer · Student · crafting accessible, pixel‑perfect interfaces with React & Figma</p>
 
-<p align="center">
+<p align="center"> Final-Year Interactive Development Student · Aspiring Software Developer · Pretoria, South Africa </p>
+
+<p align="center"> Building web applications with JavaScript, C#, .NET and modern frontend technologies while growing my skills through real-world projects. </p>
+
+<!-- <p align="center">
   <img alt="React" src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Node.js" src="https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="UX" src="https://img.shields.io/badge/UX%20DESIGN-0077C6?style=for-the-badge&logo=sketch&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+</p> -->
 
 ---
 
-## About me (code-style)
-```javascript
-// francois-profile.js
-const developer = {
-  name: "Francois le Roux",
-  title: "UI/UX Developer & Student",
-  location: "Pretoria, South Africa",
-  philosophy: "Good design speaks. Great design listens.",
-  currentFocus: [
-    "Advanced React patterns",
-    "Smooth UI animations",
-    "Accessibility improvements"
+## About Me 
+
+const francois = {
+  education: "Final-Year Creative Technology Student";
+  specialisation: "Interactive Development";
+  location: "Pretoria, South Africa";
+
+  background: [
+    "UI/UX Design",
+    "Frontend Development",
+    "Software Development'
   ],
-  contact: {
-    email: "your.email@example.com",
-    // linkedin: "https://www.linkedin.com/in/your-linkedin",
-    // portfolio: "https://your-portfolio.example.com"
-  }
-};
-console.table(developer);
+
+  currentlyLearning: [
+    "Git & GitHub",
+    ".Net Development",
+  ],
+
+  currentGoal:
+  "Build strong software development skills, grow my portfolio, and secure a graduate or junior developer role.",
+
+  interests: [
+    "Web Applications",
+    "User Experience Design",
+    "Problem Solving",
+    "Continuous Learning",
+  ];
+
+  console.log(francois);
+
 ```
 
----
+## Most Recent Project
 
-## Tech & Tools (code-style)
-```json
-{
-  "frontend": ["React", "JavaScript (ES6+)", "HTML5", "CSS3"],
-  "backend": ["Node.js", "Express"],
-  "databases": ["MongoDB", "MySQL"],
-  "design": ["Figma"],
-  "tools": ["Git", "VS Code", "Chrome DevTools"]
-}
+### VELOURS
+
+A luxury wedding apparel and fashion website built using HTML, CSS and JavaScript.
+
+**Why I Built It**
+
+VELOURS was created to strengthen my frontend development skills by building a complete responsive website from concept to deployment. The project challenged me to work with modern layouts, responsive design principles, user interface interactions, and deployment workflows.
+
+**What I Learned**
+
+* Structuring larger frontend projects
+* Responsive design techniques
+* CSS animations and transitions
+* JavaScript DOM manipulation
+* Git and deployment workflows
+* Debugging real-world frontend issues
+
+**Tech Stack**
+
+* HTML5
+* CSS3
+* JavaScript
+* Git
+* GitHub
+* Vercel
+
+**Future Improvement**
+Convert the site to the React framework using Tailwind.css.
+
+🔗 Live Demo: [[Velours](https://velours-eight.vercel.app)]
+
+🔗 Repository: [[Repository]](https://github.com/231256leRouxFNF/VELOURS)
+
 ```
+```
+
 
 ---
 
