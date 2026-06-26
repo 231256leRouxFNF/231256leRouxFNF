@@ -8,7 +8,7 @@
 
 <p align="center"> Final-Year Interactive Development Student · Aspiring Software Developer · Pretoria, South Africa </p>
 
-<p align="center"> Building web applications with JavaScript, C#, .NET and modern frontend technologies while growing my skills through real-world projects. </p>
+<p align="center"> Building software through real-world projects while continuously learning modern development technologies. </p>
 
 <!-- <p align="center">
   <img alt="React" src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -53,8 +53,8 @@ const francois = {
 console.log(francois);
 ```
 ## Currently Working On:
-- Cisco JavaScript Essentials
-- Strengthening JavaScript fundamentals
+- Cisco Python Essentials
+- Blazor
 - Building portfolio projects
 - Seeking graduate and junior developer opportunities
 
