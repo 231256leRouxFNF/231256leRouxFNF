@@ -58,6 +58,34 @@ console.log(francois);
 - Building portfolio projects
 - Seeking graduate and junior developer opportunities
 
+## Technical Skills
+
+Frontend
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+
+Backend
+- C#
+- .NET
+- Node.js
+
+Databases
+- SQL
+- Database Design
+- PostgreSQL
+
+Tools
+- Git
+- GitHub
+- Vercel
+- Electron
+- VS Code
+```
+  
+
 ## Most Recent Project
 
 ### VELOURS
@@ -169,7 +197,7 @@ Technologies Used:
 
 ## Connect
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/francois-le-roux-2415182a5/)" target="_blank">
+  <a href="https://www.linkedin.com/in/francois-le-roux-2415182a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:francoislerouxdev@gmail.com" target="_blank">
