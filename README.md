@@ -39,8 +39,11 @@ const francois = {
     ".NET Development",
   ],
 
-  currentGoal:
-    "Build strong software development skills, grow my portfolio, and secure a graduate or junior developer role.",
+  currentGoal:[
+    "Build strong software development skills",
+    "Grow my portfolio",
+    "Secure a graduate or junior developer role"
+  ],
 
   interests: [
     "Web Applications",
