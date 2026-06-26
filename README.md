@@ -120,7 +120,7 @@ VELOURS was created to strengthen my frontend development skills by building a c
 **Future Improvement**
 * Convert the site to the React framework using Tailwind.css.
 
-🔗 Live Demo: [[Velours](https://velours-eight.vercel.app)]
+🔗 Live Demo: [Velours](https://velours-eight.vercel.app)
 
 🔗 Repository: [GitHub Repository](https://github.com/231256leRouxFNF/VELOURS)
 
