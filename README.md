@@ -60,6 +60,7 @@ console.log(francois);
 - Blazor
 - Building portfolio projects
 - Seeking graduate and junior developer opportunities
+- TaskFlow: [GitHub Repository]([https://github.com/231256leRouxFNF/VELOURS](https://github.com/231256leRouxFNF/TaskFlow)) 
 
 ## Technical Skills
 
